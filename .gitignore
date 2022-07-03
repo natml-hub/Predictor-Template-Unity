@@ -1,0 +1,17 @@
+# Unity
+Library/
+Temp/
+obj/
+Logs/
+
+# IDE
+.vscode/
+.gradle/
+.vs/
+
+# NatML
+Assets/NatML/
+Assets/NatML.meta
+
+# Misc
+.DS_Store

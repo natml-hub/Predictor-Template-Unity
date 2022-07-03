@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{6a2323d0-aa7e-eb2a-2fd1-a30a137bd806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegmentationPredictor", "SegmentationPredictor.csproj", "{f4be38f0-b066-986c-59c0-398d08844d68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectionPredictor", "DetectionPredictor.csproj", "{1ae51412-4a09-bb2e-db6f-df6c49dab5fd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassificationPredictor", "ClassificationPredictor.csproj", "{a158c7a2-e5b9-bd5b-6247-39be0e798511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6a2323d0-aa7e-eb2a-2fd1-a30a137bd806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6a2323d0-aa7e-eb2a-2fd1-a30a137bd806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f4be38f0-b066-986c-59c0-398d08844d68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f4be38f0-b066-986c-59c0-398d08844d68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ae51412-4a09-bb2e-db6f-df6c49dab5fd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ae51412-4a09-bb2e-db6f-df6c49dab5fd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a158c7a2-e5b9-bd5b-6247-39be0e798511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a158c7a2-e5b9-bd5b-6247-39be0e798511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
